@@ -5,3 +5,5 @@ training repository
 Hi Humans!
 Hubot here, I like node.js and ...scirpt (that is what I'm made of). 
 I've ha dtacos on te moon and find them far superior to Earth tacos.
+
+Adding note from watch Training video from Open Enrollment Foundations March 2015.
